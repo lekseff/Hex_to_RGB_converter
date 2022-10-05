@@ -1,3 +1,8 @@
+![example workflow](https://github.com/lekseff/Hex_to_RGB_converter/actions/workflows/deploy.yml/badge.svg)
+
+[GitHub Pages Todo](https://lekseff.github.io/Hex_to_RGB_converter/)
+
+
 Конвертер цветов из HEX в RGB
 ===
 
