@@ -1,11 +1,11 @@
 import Converter from '../components/Converter';
 
 function App() {
-    return (
-        <>
-            <Converter />
-        </>
-    );
+  return (
+    <>
+      <Converter />
+    </>
+  );
 }
 
 export default App;
